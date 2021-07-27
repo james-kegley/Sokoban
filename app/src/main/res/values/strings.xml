@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="level_string">Level %1$d of %2$d</string>
+    <string name="move_up">Move the worker up</string>
+    <string name="move_down">Move the worker down</string>
+    <string name="move_left">Move the worker left</string>
+    <string name="move_right">Move the worker right</string>
+    <string name="target_count_string">Completed %1$d of %2$d targets</string>
+    <string name="move_count_string">Moves made: %1$d</string>
+    <string name="crate_on_target_string">Crate is on target</string>
+    <string name="dialog_title">You\'re winner!</string>
+    <string name="restart_string">Restart Level</string>
+    <string name="level_success_string">You can play the level again or go back to the main menu</string>
+    <string name="replay_string">Replay Level</string>
+    <string name="menu_string">Main Menu</string>
+    <string name="play_string">Play</string>
+    <string name="grid_image">A single placeable</string>
+</resources>
